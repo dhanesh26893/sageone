@@ -1,0 +1,13 @@
+{"Table":[{"STK_ID":"1","STK_NAME":"BSE","Flag":"A"}
+,{"STK_ID":"2","STK_NAME":"Kolkata","Flag":"A"}
+,{"STK_ID":"3","STK_NAME":"Chennai","Flag":"A"}
+,{"STK_ID":"4","STK_NAME":"Ahmedabad","Flag":"A"}
+,{"STK_ID":"5","STK_NAME":"Delhi","Flag":"A"}
+,{"STK_ID":"7","STK_NAME":"Hyderabad","Flag":"A"}
+,{"STK_ID":"12","STK_NAME":"Guwahati","Flag":"A"}
+,{"STK_ID":"15","STK_NAME":"Jaipur","Flag":"A"}
+,{"STK_ID":"23","STK_NAME":"NSE","Flag":"A"}
+,{"STK_ID":"27","STK_NAME":"Luxembourg","Flag":"A"}
+,{"STK_ID":"30","STK_NAME":"New York","Flag":"A"}
+,{"STK_ID":"40","STK_NAME":"MCX","Flag":"A"}
+]}
